@@ -1,0 +1,4 @@
+site_name: Octetful Notes - Mobile Computing
+nav:
+  - Home: index.md
+theme: readthedocs
