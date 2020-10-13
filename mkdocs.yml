@@ -1,4 +1,5 @@
 site_name: Octetful Notes - Mobile Computing
 nav:
   - Home: index.md
+  - Operating Systems: os/index.md
 theme: readthedocs
